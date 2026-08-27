@@ -31,3 +31,6 @@
 * ⁠A página terá uma interface simples, moderna e relacionada ao universo dos e-sports.
 *  ⁠Entre os principais conteúdos estarão informações gerais sobre a Falcup, modalidades disponíveis, inscrições, regulamentos, equipes participantes, datas, horários, resultados, chaveamentos e links para transmissões.
 * ⁠A página também deverá funcionar adequadamente em computadores e dispositivos móveis (responsividade).
+
+## 5. Resultado Esperado
+•⁠  ⁠⁠Espera-se que a página facilite a divulgação e organização da Falcup, oferecendo aos participantes e espectadores um ambiente centralizado para acompanhar todas as principais informações da competição.
