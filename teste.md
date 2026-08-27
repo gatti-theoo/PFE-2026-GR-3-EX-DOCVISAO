@@ -27,3 +27,7 @@
 * ⁠*Espectadores:* poderão acompanhar partidas, equipes, resultados e transmissões.
 *  ⁠*Organização:* será responsável por divulgar e atualizar as informações do evento.
 
+## 4. Visão Geral da Página
+* ⁠A página terá uma interface simples, moderna e relacionada ao universo dos e-sports.
+*  ⁠Entre os principais conteúdos estarão informações gerais sobre a Falcup, modalidades disponíveis, inscrições, regulamentos, equipes participantes, datas, horários, resultados, chaveamentos e links para transmissões.
+* ⁠A página também deverá funcionar adequadamente em computadores e dispositivos móveis (responsividade).
