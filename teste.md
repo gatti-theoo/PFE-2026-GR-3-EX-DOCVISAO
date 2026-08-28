@@ -1,5 +1,6 @@
 # Documento de Visão — Página Web Falcup
 - Cauã Domingues De Angelis
+- Daniela Sanchez
 - Giovanna Sales Nunes de Lima
 - Gustavo Saraiva da Silva
 - Theo Gatti
