@@ -1,4 +1,8 @@
 # Documento de Visão — Página Web Falcup
+- Cauã Domingues De Angelis
+- Giovanna Sales Nunes de Lima
+- Gustavo Saraiva da Silva
+- Theo Gatti
 
 ## 1. Introdução
 * ⁠Este documento apresenta a visão para o desenvolvimento de uma página web destinada à Falcup, um evento universitário de e-sports voltado para estudantes de instituições de ensino superior.
